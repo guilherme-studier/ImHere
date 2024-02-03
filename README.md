@@ -49,7 +49,14 @@ npm run android
 
 ## 🧑‍💻 Guilherme Studier
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-dos-santos-studier-b65b94195/)
-[<img src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/guilherme-studier)
-[<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height="28" />](https://guilherme-studier.vercel.app/
-)
+<a href="https://www.linkedin.com/in/guilherme-dos-santos-studier-b65b94195/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/guilherme-studier" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://guilherme-studier.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height="28" />
+</a>
