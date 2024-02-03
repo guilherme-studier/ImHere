@@ -1,15 +1,10 @@
 # I'm Here
 
+<!-- Title -->
+<h1 align="center"> RocketSeat 🔥 Ignite React Native</h1>
 
-
-![GitHub repo size](https://img.shields.io/github/repo-size/maykonsousa/ignite_rn_imhere)
-![GitHub language count](https://img.shields.io/github/languages/count/maykonsousa/ignite_rn_imhere)
-![GitHub forks](https://img.shields.io/github/forks/maykonsousa/ignite_rn_imhere)
-
-
-
-  
-  <br>
+<!-- Subtitle -->
+<h2 align="center"> Im Here </h2>
 
 > Este é um aplicativo mobile simples usando React Native. faz parte do módulo 01 do programa de aceleração Ignite da [Rocketseat](http://app.ropcketseat.com.br)
 
@@ -24,7 +19,7 @@ Para gerar uma cópia do projeto e implementar as suas melhorias, esteja em um c
 
 1  clone o projeto com o comando 
 ```
-git clone https://github.com/maykonsousa/ignite_rm_imhere
+git clone https://github.com/guilherme-studier/ImHere.git
 ``` 
 2  Acesse o projeto pelo terminal com o comando 
 ```
@@ -37,9 +32,9 @@ npm install
 
 4  Rode o projeto com o comando
 ```
-npm run android
+npx expo start
 ``` 
-5  Acesse o aplicativo em seu dispositívo físico com o app Expo Go ou pelo Android Studio 
+5  Acesse o aplicativo em seu dispositívo físico com o app Expo Go
 
 ## 🌐 Links úteis
 [Expo](https://expo.dev/)  
