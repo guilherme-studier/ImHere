@@ -1,7 +1,7 @@
 # I'm Here
 
 <!-- Title -->
-<h1 align="center"> RocketSeat 🔥 Ignite React Native</h1>
+<h1 align="center"> RocketSeat 🔥 Ignite</h1>
 
 <!-- Subtitle -->
 <h2 align="center"> Im Here </h2>
@@ -12,7 +12,7 @@
 
 ## Detalhes do aplicativo
 
-- Trata-se de um aplicativo simples que simula a tela de uma lista de presença para um evento onde podem ser adicionados nome de participantes a medida que o participante chega
+Trata-se de um aplicativo simples que simula a tela de uma lista de presença para um evento onde podem ser adicionados nome de participantes a medida que o participante chega
 
 ## 💻 Como usar o projeto
 Para gerar uma cópia do projeto e implementar as suas melhorias, esteja em um computador com Node Js instalado e siga as etapas abaixo:
